@@ -1,6 +1,4 @@
-# BOLT - Line Following Robot
-
-BOLT is a simple line-following robot equipped with basic sensors to detect obstacles. It can follow lines on the floor, stop when it encounters an object, navigate around it, and return to the path. This project demonstrates fundamental robotics concepts like sensor-based navigation, obstacle avoidance, and autonomous movement in a real-world environment.
+A simple line-following robot equipped with basic sensors to detect obstacles. It can follow lines on the floor, stop when it encounters an object, navigate around it, and return to the path. This project demonstrates fundamental robotics concepts like sensor-based navigation, obstacle avoidance, and autonomous movement in a real-world environment.
 
 ## Features
 
